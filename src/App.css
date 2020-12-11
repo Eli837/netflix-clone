@@ -1,0 +1,95 @@
+html, * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0e0ef3;
+    
+    color: bisque;
+}
+
+header {
+   
+    background-color: rgb(19, 223, 36);
+    padding: 0px 0;
+    margin-left: -50%;
+    margin-right: -50%;
+}
+
+.header-left {
+    float: left;
+}
+
+.central {
+    max-width: 1282px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.clear {clear: both}
+
+.header-left {
+    float: left;
+}
+
+.menu-header li {
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    margin-right: 20%;
+    margin: 15px;
+}
+
+.header-right a {
+    float: right;
+    margin: 50px;
+}
+
+.header-right img {
+  max-width: 120px;
+}
+
+
+
+
+
+
+.box-todo {
+    max-width: 1283px;
+    margin: 0 auto;
+    padding: 0 20%;
+}
+
+.conteiner {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.box_ content {
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    padding: 1px 0;
+}
+
+.netflixTitles {
+    font-weight: bold;
+    font-size: 20px;
+    color: chartreuse;
+    width: 15rem;
+    max-width: 1rem;
+}
+
+.netflixImages {
+    width: 50%;
+    margin: 1rem;
+}
+
+.let {
+    margin: 1rem;
+    font-size: 18px;
+}
