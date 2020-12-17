@@ -63,17 +63,18 @@ const shows = responseShows.data.map((item) =>  {
         <header>
           <div class="central">
             <div class="header-left">
-            <a href=""><img src="https://img.icons8.com/ios/452/netflix.png" /></a>
+            <a href=""><img src="https://tse1.mm.bing.net/th?id=OIP.0KsE19Qn10LqzoRiyMF7KAHaDb&pid=Api&P=0&w=406&h=189" /></a>
             <div class="menu-header">
               <ul>
-                <li><a href="">inicio</a></li>
-                <li><a href="">filmes</a></li>
-                <li><a href="">séries</a></li>
-                <li><a href="">favoritos</a></li>
+                <li><a href="">lnicio</a></li>
+                <li><a href="">Filmes</a></li>
+                <li><a href="">Séries</a></li>
+                <li><a href="">Favoritos</a></li>
+                <li><a href="">Sugestões</a></li>
               </ul>
               </div>
             </div>
-            
+
             <div class="header-right"> 
             <div>  
             <a href=""><img class="fot" src="https://cdn.iconscout.com/icon/free/png-256/google-search-555271.png" /></a>
