@@ -70,7 +70,6 @@ const shows = responseShows.data.map((item) =>  {
                 <li><a href="">Filmes</a></li>
                 <li><a href="">Séries</a></li>
                 <li><a href="">Favoritos</a></li>
-                <li><a href="">Sugestões</a></li>
               </ul>
               </div>
             </div>
@@ -107,6 +106,6 @@ const shows = responseShows.data.map((item) =>  {
       </div>
     );
   }
-       } 
+ } 
   
 export default NetFlix;
